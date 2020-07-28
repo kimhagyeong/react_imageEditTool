@@ -4,16 +4,19 @@
 캔버스처럼 상자들을 자율 배치하고 사이즈 조절, 레이어 조절, 그림자조절, 기울기조절, 테두리조절 등을 할 수 있는 editTool<br />
 이제 div에 이미지만 연동하는 json을 연결하면 이미지 추가삭제 등을 할 수 있다.<br />
 
-
+<p float:"left"> 
 <img src="https://user-images.githubusercontent.com/31887934/88659066-67897e00-d10f-11ea-9b00-11895dddf952.png" width="45%">
-<img src="https://user-images.githubusercontent.com/31887934/88659105-78d28a80-d10f-11ea-913e-eb9735bde6bc.png" width="45%">
+<img src="https://user-images.githubusercontent.com/31887934/88659105-78d28a80-d10f-11ea-913e-eb9735bde6bc.png" width="45%"></p>
 기본 환경에서 할 수 있는 기능들
 
+<p float:"left"> 
 <img src="https://user-images.githubusercontent.com/31887934/88659196-9f90c100-d10f-11ea-8a9a-684975b6da40.png" width="45%">
-<img src="https://user-images.githubusercontent.com/31887934/88659329-d49d1380-d10f-11ea-87bf-247149b74112.png" width="45%">
+<img src="https://user-images.githubusercontent.com/31887934/88659329-d49d1380-d10f-11ea-87bf-247149b74112.png" width="45%"></p>
 레이어를 추가하고 삭제할 수 있다.
+
+<p float:"left"> 
 <img src="https://user-images.githubusercontent.com/31887934/88659243-b505eb00-d10f-11ea-8a32-ada83b11a51e.png" width="45%">
-<img src="https://user-images.githubusercontent.com/31887934/88659406-f8605980-d10f-11ea-9f24-f57fa59bbe4b.png" width="45%">
+<img src="https://user-images.githubusercontent.com/31887934/88659406-f8605980-d10f-11ea-9f24-f57fa59bbe4b.png" width="45%"></p>
 우선순위를 변경하고(zIndex를 변경한다는 것을 의미), 그림자조절, 기울기조절, 테두리 조절 등을 할 수 있다.
 
 
